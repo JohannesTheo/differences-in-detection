@@ -2,7 +2,7 @@
 
 ### [CVPR 2026 Workshop: HOW - How Do Vision Models Work?](https://sites.google.com/view/how-cvpr-workshop)
 
-Paper: https://openreview.net/forum?id=oBzSDX70vb
+Paper: [CvF Open Access Link](https://openaccess.thecvf.com/content/CVPR2026W/HOW/papers/Theodoridis_Differences_in_Detection_Explainability_Where_it_Matters_CVPRW_2026_paper.pdf)
 
 <img src="./imgs/dvd_overview.svg">
 
@@ -71,12 +71,12 @@ plot_tide_results(m1_tide_results, m2_tide_results, m1_name, m2_name, title_iou=
 ### Citation
 
 ```bibtex
-@inproceedings{
-    theodoridis2026differences,
-    title={Differences in Detection: Explainability Where it Matters},
-    author={Theodoridis, Johannes and Maucher, Johannes and Schilling, Andreas},
-    booktitle={How Do Vision Models Work at CVPR 2026 (All Tracks)},
-    year={2026},
-    url={https://openreview.net/forum?id=oBzSDX70vb}
+@InProceedings{Theodoridis_2026_CVPR,
+    author    = {Theodoridis, Johannes and Maucher, Johannes and Schilling, Andreas},
+    title     = {Differences in Detection: Explainability Where it Matters},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {4188-4192}
 }
 ```
